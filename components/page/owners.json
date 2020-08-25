@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_owners",
+  "info": {
+    "name": "owners",
+    "icon": "users"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
